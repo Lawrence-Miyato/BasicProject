@@ -1,5 +1,0 @@
-CHUẨN BỊ:
-+3 MÁY ( 2 máy được quyền kết nối-1 máy hacker)
-+3 ROUTER
-+BÁO CÁO THỜI GIAN TIME OUT KẾT NỐI
-+NÓI BẢO MẬT Ở ĐÂU
